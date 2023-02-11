@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ArielGonzalez10 and I’m studying Lic. en Sistemas de informacion on my first year
+- 👋 Hi, I’m @ArielGonzalez10 and I’m studying Lic. en Sistemas de informacion 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C at university, but also I’m doing a web development course in order to improve my programming skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m a backend developer on Java
+- 📫 How to reach me: https://www.linkedin.com/in/ariel-gonzalez-937b11239/
 
 <!---
 ArielGonzalez10/ArielGonzalez10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
